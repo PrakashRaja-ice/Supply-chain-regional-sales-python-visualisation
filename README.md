@@ -1,5 +1,7 @@
 # Supply-chain-regional-sales-python-visualisation
 
+## Supply chain analytics is a valuable part of data-driven decision-making in various industries such as manufacturing, retail, healthcare, and logistics. It is the process of collecting, analyzing and interpreting data related to the movement of products and services from suppliers to customers.
+
 **The dataframe includes columns like ‘OrderNum’, ‘Sales Channel’, ‘WarehouseCode’, and dates related to purchases, shipping, and delivery. The code snippet shows operations to calculate delivery time and convert currency strings to numeric values in the ‘UnitPrice’ and ‘UnitCost’ columns. This is typically done using the pandas library in Python, which is great for data manipulation and analysis.**
 
 Regional sales analysis,” which compares the sales counts across four different channels.
